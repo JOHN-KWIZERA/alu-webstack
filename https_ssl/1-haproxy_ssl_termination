@@ -46,5 +46,5 @@ frontend john-frontend-https
 
 backend john-backend
         balance roundrobin
-        server 6238-web-01 3.87.158.145:80 check
-        server 6238-web-02 34.224.70.247:80 check
+        server 6205-web-01 3.87.158.145:80 check
+        server 6205-web-02 34.224.70.247:80 check
